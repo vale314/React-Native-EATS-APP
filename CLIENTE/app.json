@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "UDGEATS",
+    "slug": "rn-complete-guide",
+    "privacy": "public",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.sghost.valentinalejandro6",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.sghost.valentinalejandro6",
+      "versionCode": 1
+    }
+  }
+}
